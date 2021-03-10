@@ -1,5 +1,3 @@
-2010200 LiuMinxuan 2020.1.22
-
 #### Interpreter & compiler
 - Interpreter can translate one statement at a time. Compiler scans the entire program and translates it as a whole into machine code.
 - Interpreters usually take less amount of time to analyze the source code. However, the overall execution time is comparatively slower than compilers. Compilers usually take a large amount of time to analyze the source code. However, the overall execution time is comparatively faster than interpreters.
