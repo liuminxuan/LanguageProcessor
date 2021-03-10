@@ -1,6 +1,3 @@
-/**
- * 2010200 LiuMinxuan 2021.1.15
- */
 import java.util.*;
 public class VirtualMachine {
     private List<Command> comList; 
